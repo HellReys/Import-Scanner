@@ -1,2 +1,2 @@
 # Import-Scanner
-This is Scanner test v.1.0
+This is Scanner test 
